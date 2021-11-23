@@ -1,0 +1,7 @@
+# Visual Studio 
+.vscode/
+.history/
+*.code-workspace
+
+#Template
+html5up-strongly-typed.zip
