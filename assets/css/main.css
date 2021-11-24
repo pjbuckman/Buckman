@@ -2,6 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600|Arvo:700");
 @import url(https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap);
 
+
 /*
 	Adventue Scientist
 	Personal, Professional, webpage made by & for Nichole Sullivan - 2022
@@ -1918,11 +1919,23 @@ input, select, textarea {
 			font-family: 'Shadows Into Light', cursive;
 			color: #376648;
 			text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);
-			font-size: 3em;
+			font-size: 3.1em;
 			letter-spacing: 13px;
 		}
 
 			#header h1 a {
+				border: 0;
+			}
+
+		#header h2 {
+			text-transform: uppercase;
+			font-weight: 500;
+			color: #666;
+			font-size: 3.2em;
+			letter-spacing: 5px;
+			margin-bottom: 0.6em;
+		}
+			#header h2 a {
 				border: 0;
 			}
 
@@ -1931,7 +1944,7 @@ input, select, textarea {
 			font-weight: 400;
 			color: #888;
 			margin: 2.5em 0 0 0;
-			font-size: 0.85em;
+			font-size: 1em;
 			letter-spacing: 3px;
 			text-align: center;
 		}
