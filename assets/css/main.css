@@ -1,10 +1,10 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600|Arvo:700");
+@import url(https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap);
 
 /*
-	Strongly Typed by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	Adventue Scientist
+	Personal, Professional, webpage made by & for Nichole Sullivan - 2022
 */
 
 html, body, div, span, applet, object,
@@ -1915,9 +1915,8 @@ input, select, textarea {
 		}
 
 		#header h1 {
-			font-family: 'Arvo';
-			font-weight: 700;
-			color: #ed786a;
+			font-family: 'Shadows Into Light', cursive;
+			color: #376648;
 			text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);
 			font-size: 3em;
 			letter-spacing: 13px;
