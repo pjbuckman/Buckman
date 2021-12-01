@@ -3,7 +3,7 @@ Adventure Scientist is a professional and personal webpage created and developed
 
 It utilizes a one page HTML5 theme [Strongly Typed](html5up.net) by HTML5 UP for [Bootstrap](http://getbootstrap.com/) created by @ajlk.
 
-The theme was modifed and deployed on GitHub pages, all contained within HTML and CSS.
+The theme was modifed and deployed on [GitHub Pages](https://pages.github.com/), all contained within HTML and CSS.
 
 Deployed on GitHub Pages.
 
