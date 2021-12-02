@@ -1819,6 +1819,17 @@ input, select, textarea {
 			top: 0.05em;
 		}
 
+		input[type="button"].icon:before,
+		input[type="submit"].icon:before,
+		input[type="reset"].icon:before,
+		buttongray.icon:before,
+		.buttongray.icon:before {
+			position: relative;
+			padding-right: 0.75em;
+			opacity: 0.5;
+			top: 0.05em;
+		}
+
 		input[type="button"]:hover,
 		input[type="submit"]:hover,
 		input[type="reset"]:hover,
@@ -1841,6 +1852,14 @@ input, select, textarea {
 		button:active,
 		.button:active {
 			background: #376648;
+		}
+
+		input[type="button"]:active,
+		input[type="submit"]:active,
+		input[type="reset"]:active,
+		buttongray:active,
+		.buttongray:active {
+			background: #AAA;
 		}
 
 		input[type="button"].alt,
