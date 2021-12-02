@@ -638,22 +638,23 @@ Learned how to act quickly to fulfill time sensitive demands of the biological c
 						<div style = "margin-bottom: 1em" class="row">
 							<div class="col-6 col-12-medium">
 								<section>
-									<form method="post" action="#">
+									<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSedx41p93oAQi7ELcbBQnETpQ8JDLdVFiAT7NWON4wJnTEFeg/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
 										<div class="row gtr-50">
 											<div class="col-6 col-12-small">
-												<input name="name" placeholder="Name" type="text" />
+												<input name="entry.12898038" id="entry.12898038" name="name" placeholder="Name" type="text" />
 											</div>
 											<div class="col-6 col-12-small">
-												<input name="email" placeholder="Email" type="text" />
+												<input name="entry.713589777" id="entry.713589777" name="email" placeholder="Email" type="text" />
 											</div>
 											<div class="col-12">
-												<textarea name="message" placeholder="Message"></textarea>
+												<textarea name="entry.866459485" id="entry.866459485" name="message" placeholder="Message"></textarea>
 											</div>
 											<div class="col-12">
-												<a href="#" class="form-button-submit button icon solid fa-envelope">Send Message</a>
+												<input class="form-button-submit button icon solid fa-envelope" type="submit" value="Send Message" />
 											</div>
 										</div>
 									</form>
+									<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
 								</section>
 							</div>
 							<div class="col-6 col-12-medium">
@@ -713,7 +714,14 @@ Learned how to act quickly to fulfill time sensitive demands of the biological c
 			<script src="assets/js/browser.min.js"></script>
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+			<script src="assets/js/main.js"></script>			
+			<script type="text/javascript">var submitted=false;</script>
+			<script type="text/javascript">
+			$('#gform').on('submit', function(e) {
+			$('#gform *').fadeOut(2000);
+			$('#gform').prepend('Your submission has been processed...');
+			});
+			</script>
 
 	</body>
 </html>
