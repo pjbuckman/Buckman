@@ -1,6 +1,6 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600|Arvo:700");
-@import url(https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap);
+@import url("https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap");
 
 
 /*
@@ -2451,7 +2451,7 @@ input, select, textarea {
 /* Medium */
 
 	#navPanel, #titleBar {
-		display: none;
+		display: inline-flex;
 	}
 
 	@media screen and (max-width: 980px) {
@@ -2568,7 +2568,7 @@ input, select, textarea {
 				display: block;
 				height: 100%;
 				left: 0;
-				overflow-y: auto;
+				overflow-y: auto;				
 				position: fixed;
 				top: 0;
 				width: 275px;
@@ -2586,7 +2586,8 @@ input, select, textarea {
 					display: block;
 					color: #ddd;
 					text-decoration: none;
-					height: 44px;
+					height: auto;
+					overflow-y: hidden;
 					line-height: 44px;
 					border: 0;
 					border-top: solid 1px #3c3c3c;
