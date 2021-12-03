@@ -73,6 +73,8 @@ input, select, textarea {
 	appearance: none;
 }
 
+
+
 /* Basic */
 
 	html {
@@ -240,7 +242,16 @@ input, select, textarea {
 			.container {
 				width: calc(100% - 40px);
 			}
-
+			.row-mobile-order {
+				display: flex;
+				flex-direction: column;
+				}
+				.column-order1 {
+				order: 1;
+				}
+				.column-order2 {
+				order: 2;
+				}
 		}
 
 /* Row */
