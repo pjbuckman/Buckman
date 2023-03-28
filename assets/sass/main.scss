@@ -152,6 +152,18 @@
 		margin: 0 0 1.25em 0;
 	}
 
+	h4 {
+		font-size: 0.9em;
+		letter-spacing: 2px;
+		margin: 0 0 1.25em 0;
+	}
+
+	h5 {
+		font-size: 0.8em;
+		letter-spacing: 1.5px;
+		margin: 0 0 1em 0;
+	}
+
 	a {
 		@include vendor('transition', ('color 0.25s ease-in-out', 'border-bottom-color 0.25s ease-in-out'));
 		color: #666;
