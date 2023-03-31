@@ -39,7 +39,7 @@ Credits:
 
 ## Copyright and License
 
-Copyright 2023 Patrick Joseph Buckman - Air Traffic Control Specialist. Code released under the [GNU GENERAL PUBLIC LICENSE](https://github.com/colee222/NFS-Adv-Sci/blob/main/LICENSE) license.
+Copyright 2023 Patrick Joseph Buckman - Flight Procedures Specialist. Code released under the [GNU GENERAL PUBLIC LICENSE](https://github.com/colee222/NFS-Adv-Sci/blob/main/LICENSE) license.
 
 ## Contact
 Questions, Comments, or Job Offers? Email: [patrickbuckman9@gmail.com ](patrickbuckman9@gmail.com )
