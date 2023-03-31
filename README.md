@@ -1,11 +1,5 @@
-# NFS-Adv-Sci
-Adventure Scientist is a professional and personal webpage created and developed by Nichole Fay Sullivan. Please explore, leave feedback, and maybe offer a job :)
+# Patrick Buckman 
 
-It utilizes a one page HTML5 theme [Strongly Typed](html5up.net) by HTML5 UP for [Bootstrap](http://getbootstrap.com/) created by @ajlk.
-
-The theme was modifed and deployed on [GitHub Pages](https://pages.github.com/), all contained within HTML and CSS.
-
-Deployed on GitHub Pages.
 
 ## Preview
 
@@ -29,14 +23,6 @@ Have a bug or an issue with the site? [Open a new issue](https://github.com/cole
 
 ## About
 
-### Nichole Sullivan
-
-[Nichole Sullivan](https://colee222.github.io/NFS-Adv-Sci/) is an *Adventure Scientist*, a unique self identification that captures the willingness to try new things, push boundaries, and say yes, with a passion for experimentation, observation, and learning.
-
-* [Web Site](https://colee222.github.io/NFS-Adv-Sci/)
-* [LinkedIn](https://www.linkedin.com/in/nicholesullivan)
-* [Google Scholar](https://scholar.google.com/citations?user=XphOlooAAAAJ&hl=en)
-
 ### Strongly Typed
 
 Template Theme: https://html5up.net/
@@ -53,7 +39,7 @@ Credits:
 
 ## Copyright and License
 
-Copyright 2019-2021 Nichole Fay Sullivan - Adventure Scientist. Code released under the [GNU GENERAL PUBLIC LICENSE](https://github.com/colee222/NFS-Adv-Sci/blob/main/LICENSE) license.
+Copyright 2023 Patrick Joseph Buckman - Air Traffic Control Specialist. Code released under the [GNU GENERAL PUBLIC LICENSE](https://github.com/colee222/NFS-Adv-Sci/blob/main/LICENSE) license.
 
 ## Contact
-Questions, Comments, or Job Offers? Email: [nfsulli@gmail.com](nfsulli@gmail.com)
+Questions, Comments, or Job Offers? Email: [patrickbuckman9@gmail.com ](patrickbuckman9@gmail.com )
