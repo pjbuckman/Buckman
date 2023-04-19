@@ -9,15 +9,7 @@
 
 [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
-## Download and Installation
-
-## Usage
-
-### Basic Usage
-
-### Advanced Usage
-
-## Bugs and Issues
+## TODO add resume download button
 
 Have a bug or an issue with the site? [Open a new issue](https://github.com/colee222/NFS-Adv-Sci/issues) here on GitHub.
 
